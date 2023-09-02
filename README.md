@@ -1,2 +1,3 @@
 # SmallUnity
-Small Unity projects
+
+Small unity projects.
